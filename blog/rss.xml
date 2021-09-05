@@ -4,9 +4,44 @@
         <title>Remotion Blog</title>
         <link>https://remotion.dev/blog</link>
         <description>Remotion Blog</description>
-        <lastBuildDate>Wed, 03 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Remotion 2.3]]></title>
+            <link>https://remotion.dev/blog/2-3</link>
+            <guid>2-3</guid>
+            <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Remotion 2.3 is out and features first-class support for still images!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Remotion 2.2]]></title>
+            <link>https://remotion.dev/blog/2-2</link>
+            <guid>2-2</guid>
+            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the release notes of Remotion 2.2! It's been a while since v2.1, but in the meanwhile we had a dozen smaller releases inbetween. This post summarizes the highlights of the past 2 months 🎉.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Remotion 2.1]]></title>
+            <link>https://remotion.dev/blog/2-1</link>
+            <guid>2-1</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This releases features new utility functions, improved developer experience and an experimental release of the Remotion Player!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Remotion 2.0]]></title>
+            <link>https://remotion.dev/blog/2-0</link>
+            <guid>2-0</guid>
+            <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is our biggest and best release so far - today we are unloading a lot of awesome, highly requested features!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Announcing pricing for company licenses]]></title>
+            <link>https://remotion.dev/blog/company-licenses</link>
+            <guid>company-licenses</guid>
+            <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We got rid of the "Contact us for pricing" policy and have announced the pricing for Remotion publicly. Head over to companies.remotion.dev to see it!]]></description>
+        </item>
         <item>
             <title><![CDATA[Remotion 1.5]]></title>
             <link>https://remotion.dev/blog/1-5</link>
